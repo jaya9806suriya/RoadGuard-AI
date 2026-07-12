@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pothole']
+
+roboflow:
+  workspace: jayasuriya-s
+  project: pothole-detection-diy8s-ieljb
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/jayasuriya-s/pothole-detection-diy8s-ieljb/dataset/1

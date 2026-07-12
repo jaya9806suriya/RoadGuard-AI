@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Dataset
+dataset/
+
+# Training output
+runs/
+
+# Videos
+videos/
+
+# Model weights
+*.pt
+
+# Zip files
+*.zip
+
+# Output files
+outputs/
+
+# CSV logs
+*.csv
